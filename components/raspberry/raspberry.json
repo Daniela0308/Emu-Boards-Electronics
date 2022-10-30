@@ -1,0 +1,334 @@
+{
+    "name" : "raspberry",
+    "category" : "board",
+    "image" : "raspberrypi.svg",  
+    "code_functions" :"raspberry.py",
+    "state" : "",
+    "connections" : [
+            {
+                "type" : "3v3 power",
+                "pinNumber" : "1",
+                "iD" : "power1",
+                "coordinates" : {
+                    "x" : "34.59",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "5v power",
+                "pinNumber" : "2",
+                "iD" : "power2",
+                "coordinates" : {
+                    "x" : "34.59",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 2",
+                "pinNumber" : "3",
+                "iD" : "gpio2",
+                "coordinates" : {
+                    "x" : "44.09",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "5v power",
+                "pinNumber" : "4",
+                "coordinates" : {
+                    "x" : "44.09",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 3",
+                "pinNumber" : "5",
+                "coordinates" : {
+                    "x" : "53.59",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "ground",
+                "pinNumber" : "6",
+                "coordinates" : {
+                    "x" : "53.59",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 4",
+                "pinNumber" : "7",
+                "coordinates" : {
+                    "x" : "63.10",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 14",
+                "pinNumber" : "8",
+                "coordinates" : {
+                    "x" : "63.10",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "ground",
+                "pinNumber" : "9",
+                "coordinates" : {
+                    "x" : "72.98",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 15",
+                "pinNumber" : "10",
+                "coordinates" : {
+                    "x" : "72.98",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 17",
+                "pinNumber" : "11",
+                "coordinates" : {
+                    "x" : "82.48",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 18",
+                "pinNumber" : "12",
+                "coordinates" : {
+                    "x" : "82.48",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 27",
+                "pinNumber" : "13",
+                "coordinates" : {
+                    "x" : "92.36",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "ground",
+                "pinNumber" : "14",
+                "coordinates" : {
+                    "x" : "92.36",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 22",
+                "pinNumber" : "15",
+                "coordinates" : {
+                    "x" : "101.48",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 23",
+                "pinNumber" : "16",
+                "coordinates" : {
+                    "x" : "101.48",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "3v3 power",
+                "pinNumber" : "17",
+                "coordinates" : {
+                    "x" : "110.49",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 24",
+                "pinNumber" : "18",
+                "coordinates" : {
+                    "x" : "110.49",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 10",
+                "pinNumber" : "19",
+                "coordinates" : {
+                    "x" : "120.87",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "ground",
+                "pinNumber" : "20",
+                "coordinates" : {
+                    "x" : "120.87",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 9",
+                "pinNumber" : "21",
+                "coordinates" : {
+                    "x" : "130.75",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 25",
+                "pinNumber" : "22",
+                "coordinates" : {
+                    "x" : "130.75",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 11",
+                "pinNumber" : "23",
+                "coordinates" : {
+                    "x" : "140.63",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 8",
+                "pinNumber" : "24",
+                "coordinates" : {
+                    "x" : "140.63",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "ground",
+                "pinNumber" : "25",
+                "coordinates" : {
+                    "x" : "149.76",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 7",
+                "pinNumber" : "26",
+                "coordinates" : {
+                    "x" : "149.76",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 0",
+                "pinNumber" : "27",
+                "coordinates" : {
+                    "x" : "159.19",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 1",
+                "pinNumber" : "28",
+                "coordinates" : {
+                    "x" : "159.19",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 5",
+                "pinNumber" : "29",
+                "coordinates" : {
+                    "x" : "168.69",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "ground",
+                "pinNumber" : "30",
+                "coordinates" : {
+                    "x" : "168.69",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 6",
+                "pinNumber" : "31",
+                "coordinates" : {
+                    "x" : "178.48",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 12",
+                "pinNumber" : "32",
+                "coordinates" : {
+                    "x" : "178.48",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 13",
+                "pinNumber" : "33",
+                "coordinates" : {
+                    "x" : "188.12",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "ground",
+                "pinNumber" : "34",
+                "coordinates" : {
+                    "x" : "188.12",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 19",
+                "pinNumber" : "35",
+                "coordinates" : {
+                    "x" : "197.62",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 16",
+                "pinNumber" : "36",
+                "coordinates" : {
+                    "x" : "197.62",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "gpio 26",
+                "pinNumber" : "37",
+                "coordinates" : {
+                    "x" : "207.26",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 20",
+                "pinNumber" : "38",
+                "coordinates" : {
+                    "x" : "207.26",
+                    "y" : "211.71"
+                }
+            },
+            {
+                "type" : "ground",
+                "pinNumber" : "39",
+                "coordinates" : {
+                    "x" : "216.91",
+                    "y" : "202.59"
+                }
+            },
+            {
+                "type" : "gpio 21",
+                "pinNumber" : "40",
+                "coordinates" : {
+                    "x" : "216.91",
+                    "y" : "211.71"
+                }
+            }
+        ]
+
+           
+}

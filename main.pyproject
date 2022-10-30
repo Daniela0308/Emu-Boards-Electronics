@@ -1,0 +1,3 @@
+{
+    "files": ["Components.qrc","view.py","button.json","main.py","form.ui","components.py","workspace.py","resources.qrc","settings.py","led.json","componentsFunctions.py"]
+}

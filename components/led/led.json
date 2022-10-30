@@ -1,0 +1,30 @@
+{
+    "name" : "led",
+    "category" : "basic",
+    "image"  : "ledoff.svg",
+    "code_functions" :"led.py",
+    "state" : {  
+             "on"    : "ledon.svg",
+             "off"   : "ledoff.svg"        
+    },
+    "connections" : [
+        {
+            "type" : "anode",
+            "coordinates" : {
+                "x" : "6.14",
+                "y" : "1.48",
+                "h" : "1.75",
+                "w" : "1.75"               
+            }
+        },
+        {
+            "type" : "cathode",
+            "coordinates" : {
+                "x" : "15.62",
+                "y" : "1.48",
+                "h"  : "1.75",
+                "w" : "1.75" 
+            }
+        }
+    ]
+}

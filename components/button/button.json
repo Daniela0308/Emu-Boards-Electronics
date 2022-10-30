@@ -1,0 +1,30 @@
+{
+    "name" : "button",
+    "category" : "basic",
+    "image" : "buttonoff.svg", 
+    "code_functions" :"button.py",
+    "state" : { 
+            "on" : "buttonon.svg",
+            "off" : "buttonoff.svg"
+    },
+    "connections" : [
+        {
+            "type" : "anode",
+            "coordinates" : {
+                "x" : "3.46",
+                "y" : "10.14",
+                "h" : "3.5",
+                "w" : "3.5"              
+            }
+        },
+        {
+            "type" : "cathode",
+            "coordinates" : {
+                "x" : "41.79",
+                "y" : "10.14",
+                "h" : "3.5",
+                "w" : "3.5"   
+            }
+        }
+    ]
+}

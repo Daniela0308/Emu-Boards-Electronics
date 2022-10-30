@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/copy.jpeg</file>
+        <file>Resource/cut.jpeg</file>
+        <file>Resource/delete.jpeg</file>
+        <file>Resource/exit.png</file>
+        <file>Resource/main.py</file>
+        <file>Resource/new.png</file>
+        <file>Resource/open.png</file>
+        <file>Resource/paste.jpeg</file>
+        <file>Resource/raspberry.svg</file>
+        <file>Resource/redo.jpeg</file>
+        <file>Resource/run.jpeg</file>
+        <file>Resource/save.jpeg</file>
+        <file>Resource/saveas.png</file>
+        <file>Resource/stop.jpeg</file>
+        <file>Resource/undo.jpeg</file>
+        <file>Resource/aceptar.png</file>
+        <file>Resource/cancelar.png</file>
+        <file>Resource/adjust.png</file>
+        <file>Resource/-zoom.png</file>
+        <file>Resource/+zoom.png</file>
+    </qresource>
+</RCC>
